@@ -1,0 +1,14 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.form-button {
+    background-color: cornflowerblue;
+    color: #fff;
+}
+
+.form-button:hover {
+    background-color: royalblue;
+}

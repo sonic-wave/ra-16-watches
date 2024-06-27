@@ -1,0 +1,15 @@
+.watch-container {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.watch-component {
+    padding: 5px;
+}
+
+.watch-button {
+    background-color: #fff;
+    border: none;
+}
